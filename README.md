@@ -1,20 +1,20 @@
-# 🌿 Animating Ecology: Environmental Motifs in Studio Ghibli  
+#Animating Ecology: Environmental Motifs in Studio Ghibli  
 
 Welcome to the public-facing home of my independent project.  
 This repository explores how *Studio Ghibli* films construct ecological imaginaries, with a focus on recurring environmental motifs.  
 
 
-## Project Pages
+#Project Pages
 - [Reflections & Presentation]  
 - [ Image Archive]  
 
 
-## Current Focus
-- **Films**: *My Neighbor Totoro* (1988), *Princess Mononoke* (1997), *Ponyo* (2008)  
-- **Themes**: 🌳 Forests | 🌊 Oceans | 🏭 Pollution | 👻 Animism | 🐟 Extinction  
+#Current Focus
+- Films: *My Neighbor Totoro* (1988), *Princess Mononoke* (1997), *Ponyo* (2008)  
+- Themes:  Forests |  Oceans |  Pollution | Animism | Extinction  
 
 
-## Next Steps
+#Next Steps
 - Complete coding of motifs across the three films  
 - Create a network visualization of themes  
 - Expand GitHub Pages into a more interactive project hub  
