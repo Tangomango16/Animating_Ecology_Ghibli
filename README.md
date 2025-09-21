@@ -8,12 +8,12 @@ This repository explores how *Studio Ghibli* films construct ecological imaginar
 # Week 05 Update
 - Project Pages [index.html](https://github.com/Tangomango16/Animating_Ecology_Ghibli/blob/main/index.html) and [graphs.html]  
 - [My Google Slides Presentation](https://docs.google.com/presentation/d/1XI9mj5TQ_7FWa__S8rpM7C5VR3vcwPFz/edit?usp=sharing&ouid=106508322287824266158&rtpof=true&sd=true)
+- Landing page for my website (https://tangomango16.github.io/Animating_Ecology_Ghibli/)
 - Sources: Princess Mononoke, My Neighbor Totoro, Ponyo
 - Environmental themes tracked: forests, rivers, pollution, animism, extinction, 
 
 # Next Steps
 - Complete coding of motifs across the three films 
-- Create a landing page for the website 
 - Create a network visualization of themes  
 - Expand GitHub Pages into a more interactive project hub
 
