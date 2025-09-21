@@ -5,14 +5,14 @@ Independent Project Update Princess Mononoke • My Neighbour Totoro • Ponyo
 Welcome to the public-facing home of my independent project.  
 This repository explores how *Studio Ghibli* films construct ecological imaginaries, with a focus on recurring environmental motifs.
 
-## Week 05 Update
+# Week 05 Update
 - Project Pages
 - [Reflections & Presentation]  
 - [ Image Archive]  
 - Sources: Princess Mononoke, My Neighbor Totoro, Ponyo
 - Environmental themes tracked: forests, rivers, pollution, animism, extinction, 
 
-## Next Steps
+# Next Steps
 - Complete coding of motifs across the three films 
 - Create a landing page for the website 
 - Create a network visualization of themes  
