@@ -1,28 +1,20 @@
-#Animating Ecology: Environmental Motifs in Studio Ghibli  
+# Animating_Ecology_Ghibli
+Independent Project Update Princess Mononoke • My Neighbour Totoro • Ponyo
+# Animating Ecology — Studio Ghibli Environmental Motifs
 
 Welcome to the public-facing home of my independent project.  
-This repository explores how *Studio Ghibli* films construct ecological imaginaries, with a focus on recurring environmental motifs.  
+This repository explores how *Studio Ghibli* films construct ecological imaginaries, with a focus on recurring environmental motifs.
 
-
-#Project Pages
+## Week 05 Update
+- Project Pages
 - [Reflections & Presentation]  
 - [ Image Archive]  
+- Sources: Princess Mononoke, My Neighbor Totoro, Ponyo
+- Environmental themes tracked: forests, rivers, pollution, animism, extinction, 
 
-
-#Current Focus
-- Films: *My Neighbor Totoro* (1988), *Princess Mononoke* (1997), *Ponyo* (2008)  
-- Themes:  Forests |  Oceans |  Pollution | Animism | Extinction  
-
-
-#Next Steps
-- Complete coding of motifs across the three films  
+## Next Steps
+- Complete coding of motifs across the three films 
+- Create a landing page for the website 
 - Create a network visualization of themes  
-- Expand GitHub Pages into a more interactive project hub  
+- Expand GitHub Pages into a more interactive project hub
 
-
-<p align="center">  
-  <img src=""C:\Users\TUNGABHADRA BANERJEE\Desktop\New folder\Studio Ghibli Masthead.jpg"/>  
-  <img src=""C:\Users\TUNGABHADRA BANERJEE\Desktop\New folder\Animating_Ecology_Ghibli\miyazaki-10-ponyo1.png"/> 
-  <img src=""C:\Users\TUNGABHADRA BANERJEE\Desktop\New folder\Animating_Ecology_Ghibli\Princess_Mononoke_Japanese_poster.png""/>
-  img src=""C:\Users\TUNGABHADRA BANERJEE\Desktop\New folder\Animating_Ecology_Ghibli\my neighor totorojpg.jpg""/>
-</p>
