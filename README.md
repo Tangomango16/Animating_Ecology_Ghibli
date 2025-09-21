@@ -7,7 +7,7 @@ This repository explores how *Studio Ghibli* films construct ecological imaginar
 
 # Week 05 Update
 - Project Pages [Reflections]  and [Image Archive]  
-- Presentation [My Google Slides Presentation](https://docs.google.com/presentation/d/your_slide_id/edit?usp=sharing)
+- Presentation [My Google Slides Presentation](https://docs.google.com/presentation/d/1pEVvHcVW4qhRrM7ZRnXWl2RHjWWA_NlU/edit?slide=id.p1#slide=id.p1)
 - Sources: Princess Mononoke, My Neighbor Totoro, Ponyo
 - Environmental themes tracked: forests, rivers, pollution, animism, extinction, 
 
