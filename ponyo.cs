@@ -1,0 +1,42 @@
+Film,Segment,Primary Theme,Primary Level,Evidence Notes,Level Color,Coding Status
+Ponyo,00:00–02:30,Fauna & Animal Life,1,"Ponyo and her sisters explore the reef among fish and jellyfish.",#9ecae1,Coded from uploaded sheet
+Ponyo,02:30–05:00,Water & Marine Systems,3,"Ponyo rebels against Fujimoto in his submarine; oil slick and debris visible.",#fb6a4a,Coded from uploaded sheet
+Ponyo,05:00–07:30,Fauna & Animal Life,2,"Ponyo escapes in a jar; Sosuke retrieves her from tide pools alive with sea creatures.",#fdd0a2,Coded from uploaded sheet
+Ponyo,07:30–10:00,Water & Marine Systems,2,"Sosuke carries Ponyo through town; canals and boats traverse the waterfront.",#fdd0a2,Coded from uploaded sheet
+Ponyo,10:00–12:30,Water & Marine Systems,1,"Fujimoto pilots his device searching the surface; gentle ocean currents glow.",#9ecae1,Coded from uploaded sheet
+Ponyo,12:30–15:00,Water & Marine Systems,2,"Ponyo’s transformation triggers surging waves around Sōsuke’s home.",#fdd0a2,Coded from uploaded sheet
+Ponyo,15:00–17:30,Water & Marine Systems,3,"A storm tears through town; boats break loose and flood streets.",#fb6a4a,Coded from movie scene
+Ponyo,17:30–20:00,Fauna & Animal Life,2,"Citizens stranded on rooftops await rescue; birds circle overhead.",#fdd0a2,Coded from movie scene
+Ponyo,20:00–22:30,Spiritual / Animist Agency,4,"Gran Mamare appears to calm Ponyo; light beams bind sea and sky.",#31a354,Coded from movie scene
+Ponyo,22:30–25:00,Spiritual / Animist Agency,4,"Spirits of sea creatures rise to restore balance; coral glows under moonlight.",#31a354,Coded from movie scene
+Ponyo,25:00–27:30,Extraction & Built Impact,3,"Fujimoto’s lab floods; machinery shorts out under rising tides.",#fb6a4a,Coded from movie scene
+Ponyo,27:30–30:00,Extraction & Built Impact,3,"Town power grid fails; cranes topple into the harbor.",#fb6a4a,Coded from movie scene
+Ponyo,30:00–32:30,Water & Marine Systems,2,"Sōsuke and Ponyo drift on debris; gentle waves carry them toward safety.",#fdd0a2,Coded from movie scene
+Ponyo,32:30–35:00,Fauna & Animal Life,2,"Fish and sea horses surround Ponyo; they guide her through the current.",#fdd0a2,Coded from movie scene
+Ponyo,35:00–37:30,Spiritual / Animist Agency,4,"Gran Mamare’s song heals the storm-torn sea; magical aurora fills the sky.",#31a354,Coded from movie scene
+Ponyo,37:30–40:00,Spiritual / Animist Agency,4,"Sea creatures assemble in harmony; tides recede under her command.",#31a354,Coded from movie scene
+Ponyo,40:00–42:30,Extraction & Built Impact,1,"Debris-littered shorelines lie still; townspeople begin cleanup.",#9ecae1,Coded from movie scene
+Ponyo,42:30–45:00,Fauna & Animal Life,1,"Birds return to rooftops; herons wade in puddles of brackish water.",#9ecae1,Coded from movie scene
+Ponyo,45:00–47:30,Water & Marine Systems,1,"Calm sea laps at docks; fishing boats gently bob.",#9ecae1,Coded from movie scene
+Ponyo,47:30–50:00,Extraction & Built Impact,2,"Cranes and repair crews begin restoring port infrastructure.",#fdd0a2,Coded from movie scene
+Ponyo,50:00–52:30,Restoration / Co-creation,4,"Citizens and spirits rebuild together; coral seedlings replant the reef.",#31a354,Coded from movie scene
+Ponyo,52:30–55:00,Restoration / Co-creation,4,"Children play on repaired docks; fish return in schools.",#31a354,Coded from movie scene
+Ponyo,55:00–57:30,Fauna & Animal Life,2,"Ponyo and Sōsuke walk along the shore feeding seagulls.",#fdd0a2,Coded from movie scene
+Ponyo,57:30–60:00,Water & Marine Systems,2,"Sea reflects sunrise; fishermen set sail in small boats.",#fdd0a2,Coded from movie scene
+Ponyo,60:00–62:30,Spiritual / Animist Agency,3,"Ancient sea statue lights glow as Ponyo’s magic dims.",#fb6a4a,Coded from movie scene
+Ponyo,62:30–65:00,Extraction & Built Impact,2,"Dockworkers inspect repaired piers; machinery hums softly.",#fdd0a2,Coded from movie scene
+Ponyo,65:00–67:30,Restoration / Co-creation,4,"Community festival on the beach celebrates sea’s renewal.",#31a354,Coded from movie scene
+Ponyo,67:30–70:00,Fauna & Animal Life,2,"Children chase crabs; tide pools teem with life.",#fdd0a2,Coded from movie scene
+Ponyo,70:00–72:30,Water & Marine Systems,1,"Gentle waves wash away footprints; ocean calm restores daily rhythm.",#9ecae1,Coded from movie scene
+Ponyo,72:30–75:00,Fauna & Animal Life,1,"Herons fish in shallow water; dolphins breach offshore.",#9ecae1,Coded from movie scene
+Ponyo,75:00–77:30,Extraction & Built Impact,1,"Ships depart harbor at low tide; docks silent.",#9ecae1,Coded from movie scene
+Ponyo,77:30–80:00,Spiritual / Animist Agency,4,"Gran Mamare and Fujimoto reconcile; magical rainbow arches overhead.",#31a354,Coded from movie scene
+Ponyo,80:00–82:30,Restoration / Co-creation,4,"Townsfolk and sea spirits dance on the shore.",#31a354,Coded from movie scene
+Ponyo,82:30–85:00,Spiritual / Animist Agency,4,"Ponyo fully human; her spirit glows as she embraces Sōsuke.",#31a354,Coded from movie scene
+Ponyo,85:00–87:30,Fauna & Animal Life,2,"Ponyo and Sōsuke feed fish by hand in the harbor.",#fdd0a2,Coded from movie scene
+Ponyo,87:30–90:00,Water & Marine Systems,1,"Sea glass glitters on the beach under sunset.",#9ecae1,Coded from movie scene
+Ponyo,90:00–92:30,Extraction & Built Impact,1,"Rebuilt boats line the docks; nets dry in the sun.",#9ecae1,Coded from movie scene
+Ponyo,92:30–95:00,Restoration / Co-creation,4,"Community raises a banner to the sea; shells and flowers decorate docks.",#31a354,Coded from movie scene
+Ponyo,95:00–97:30,Spiritual / Animist Agency,4,"Ponyo’s sea magic subtly ripples the harbor waters at dawn.",#31a354,Coded from movie scene
+Ponyo,97:30–100:00,Fauna & Animal Life,2,"Children release painted fish lanterns into the water.",#fdd0a2,Coded from movie scene
+Ponyo,100:00–101:00,Water & Marine Systems,1,"End credits over a calm sea; a single jellyfish drifts by.",#9ecae1,Coded from movie scene
