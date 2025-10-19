@@ -13,7 +13,7 @@ This repository explores how *Studio Ghibli* films construct ecological imaginar
 - Sources: Princess Mononoke, My Neighbor Totoro, Ponyo
 - Environmental themes tracked: Forests & Vegetation, Fauna & Animal Life, Water & Marine Systems, Spiritual / Animist Agency, Extraction & Built Impact
 # Motif Spreadsheet
-View the spreadsheet tracking environmental motifs across Princess Mononoke and Ponyo: https://docs.google.com/spreadsheets/d/1g3D_Dy7WUufjWynwGBqDUUIUH-jwE7Tj/edit?usp=sharing&ouid=106508322287824266158&rtpof=true&sd=true)
+View the spreadsheet tracking environmental motifs across Princess Mononoke and Ponyo: https://docs.google.com/spreadsheets/d/1g3D_Dy7WUufjWynwGBqDUUIUH-jwE7Tj/edit?usp=sharing&ouid=106508322287824266158&rtpof=true&sd=true
 
 
 # Next Steps
