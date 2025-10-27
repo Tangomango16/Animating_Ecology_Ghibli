@@ -4,6 +4,7 @@ Independent Project Interation II: Princess Mononoke • My Neighbour Totoro •
 
 Welcome to the public-facing home of my independent project.  
 This repository explores how *Studio Ghibli* films construct ecological imaginaries, with a focus on recurring environmental motifs.
+<img alt= 'Ponyo and Sasuke eat ramen' src= 'C:\Users\TUNGABHADRA BANERJEE\Desktop\DSAM 3000 Week 5 Update\ramen ponyo.jpg'>
 
 # Week 05 Update
 - Project Pages [index.html](https://github.com/Tangomango16/Animating_Ecology_Ghibli/blob/main/index.html) and [graphs.html]  
