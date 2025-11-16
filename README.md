@@ -4,6 +4,7 @@ Independent Project Interation II: Princess Mononoke • My Neighbour Totoro •
 
 Welcome to the public-facing home of my independent project.  
 Studio Ghibli films construct ecological meaning through repeated domain translations, where natural forces, spirits, and human infrastructures move into one another’s conceptual space. These translations generate a model of environmental thinking that is neither purely material nor purely animist, but relational.
+<br>
 <img alt='Ponyo and Sasuke eat ramen' src='ramen ponyo.jpg'>
 
 # Week 09 Update
