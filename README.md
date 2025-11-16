@@ -3,10 +3,10 @@ Independent Project Interation II: Princess Mononoke • My Neighbour Totoro •
 # Animating Ecology — Studio Ghibli Environmental Motifs
 
 Welcome to the public-facing home of my independent project.  
-This repository explores how *Studio Ghibli* films construct ecological imaginaries, with a focus on recurring environmental motifs.
+Studio Ghibli films construct ecological meaning through repeated domain translations, where natural forces, spirits, and human infrastructures move into one another’s conceptual space. These translations generate a model of environmental thinking that is neither purely material nor purely animist, but relational.
 <img alt='Ponyo and Sasuke eat ramen' src='ramen ponyo.jpg'>
 
-# Week 05 Update
+# Week 09 Update
 - Project Pages [index.html](https://github.com/Tangomango16/Animating_Ecology_Ghibli/blob/main/index.html) and [graphs.html]  
 - [My Google Slides Presentation](https://docs.google.com/presentation/d/1XI9mj5TQ_7FWa__S8rpM7C5VR3vcwPFz/edit?usp=sharing&ouid=106508322287824266158&rtpof=true&sd=true)
 - Visit the live version of this project here:  
