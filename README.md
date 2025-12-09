@@ -20,8 +20,3 @@ View the spreadsheet tracking environmental motifs across *Princess Mononoke* an
 
 
 
-# Next Steps
-- Complete coding of motifs for Totoro
-- Create a network visualization of themes, bar chart with csv, raw graphs or StoryMaps 
-- Expand GitHub Pages into a more interactive project hub
-
